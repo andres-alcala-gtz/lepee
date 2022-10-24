@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lepee/static/css/main.073c9b0a.css",
+    "main.js": "/lepee/static/js/main.22f74f8a.js",
+    "index.html": "/lepee/index.html",
+    "main.073c9b0a.css.map": "/lepee/static/css/main.073c9b0a.css.map",
+    "main.22f74f8a.js.map": "/lepee/static/js/main.22f74f8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.22f74f8a.js"
+  ]
+}
